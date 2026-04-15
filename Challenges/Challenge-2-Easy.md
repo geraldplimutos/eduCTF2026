@@ -12,6 +12,20 @@ Hints: You modify something to change it, so how did the suspect change somethin
 
 TOOLS USED TO WRITE CHALLENGE:
 
+        mkdir
+        
+        mv
+        
+        exiftool
+        
+        cd
+        
+        bash scripting
+        
+        ls
+        
+        cat
+
 GENERAL IDEA:
 
 My idea for this challenge is simple:
