@@ -120,7 +120,7 @@ Let's double check if these files actually contain eduCTF{1s_th1s_th3_r1ght_fl4g
 
 Well ain't that a treat.
 
-Okay! Now let's just peek into April_16 to take a mental note of the correct answer.
+Okay! Now let's just peek into April_16 to take a mental note of the correct answer for future development.
 
         ┌──(hellopo㉿rald)-[~/eduCTF2026/Challenge2Easy/dates]
         └─$ cat April_16
