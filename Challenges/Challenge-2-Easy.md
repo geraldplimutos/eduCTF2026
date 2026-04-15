@@ -78,3 +78,56 @@ Let's enter dates.
 
 Now we have to make a whole bunch of .txt files with the wrong flag, except for the one named "April16"
 
+        ┌──(hellopo㉿rald)-[~/eduCTF2026/Challenge2Easy/dates]
+        └─$ for i in {1..20}; do echo "eduCTF{1s_th1s_th3_r1ght_fl4g?$i}" > "April_$i"; done
+
+We don't wanna just create 20 files over and over, that'll waste a bit of time. Let's write our own bash code to automate this all in 1 line.
+
+It starts off with a for loop which will loop 20 times, and for each loop it will echo eduCTF{1s_th1s_th3_r1ght_fl4g?}, which is attached to a number that increases 
+per each loop starting from 1 right before its curly brace ends, and we will output it in April_[increasing number starting from 1]. We end it with "done" to indicate that's the last bit of command.
+
+Result:       
+
+        ┌──(hellopo㉿rald)-[~/eduCTF2026/Challenge2Easy/dates]
+        └─$ ls      
+        April_1   April_11  April_13  April_15  April_17  April_19  April_20  April_4  April_6  April_8
+        April_10  April_12  April_14  April_16  April_18  April_2   April_3   April_5  April_7  April_9
+
+Let's double check if these files actually contain eduCTF{1s_th1s_th3_r1ght_fl4g?} along with an increasing number.
+
+        ┌──(hellopo㉿rald)-[~/eduCTF2026/Challenge2Easy/dates]
+        └─$ cat *       
+        eduCTF{1s_th1s_th3_r1ght_fl4g?1}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?2}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?3}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?4}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?5}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?6}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?7}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?8}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?9}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?10}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?11}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?12}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?13}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?14}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?15}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?16}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?17}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?18}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?19}
+        eduCTF{1s_th1s_th3_r1ght_fl4g?20}
+
+Well ain't that a treat.
+
+Okay! Now let's just peek into April_16 to take a mental note of the correct answer.
+
+        ┌──(hellopo㉿rald)-[~/eduCTF2026/Challenge2Easy/dates]
+        └─$ cat April_16
+        eduCTF{1s_th1s_th3_r1ght_fl4g?16}
+
+And there you have it!
+
+Flag:
+
+eduCTF{1s_th1s_th3_r1ght_fl4g?16}
