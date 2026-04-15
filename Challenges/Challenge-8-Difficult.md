@@ -42,12 +42,21 @@ So it'll be a lot of mental gymnastics for them lol.
 
 And then by the time it's time to open the image, they'll have to know the xdg-open tool or else how the heck do you open it.
 
-## (Use this idea if you're evil. For now, that may be too much) 
-## (And worst of all, the image they get is STILL encrypted. It'll have the hex version of the flag, which they'll have to decrypt.)
+(Draft:) 
+(And worst of all, the image they get is STILL encrypted. It'll have the hex version of the flag, which they'll have to decrypt.)
 
-This takes huge inspiration from OverTheWire Wargames: Bandit. Big thanks to them.
+This takes huge inspiration from OverTheWire Wargames: Bandit. Big thanks to them. If any players have been doing their homework, they should be rewarded with the knowledge of knowing how to solve this problem. Otherwise, it might just be hell.
 
 Let's begin.
 
 CHALLENGE WRITING PROCESS:
 
+Let's first decide on an flag. Let's go with eduCTF{th4t_t00k_f0r3v3r_6767}
+
+Now let's create the image we need on figma. 
+
+<img width="1440" height="1024" alt="Challenge-8-Flag" src="https://github.com/user-attachments/assets/b3136885-4ff7-4fdc-b64b-1ded6a657fdf" />
+
+Perfect. Now I'll just upload this image on GDrive, set it to public viewer, and install it from my Kali VM to work with it.
+
+I've also moved the image 
