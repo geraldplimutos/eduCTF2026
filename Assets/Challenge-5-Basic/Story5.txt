@@ -1,0 +1,13 @@
+The investigation moves from the crime scene to the digital lives of the students. 
+
+Liam and Aldrich mention that Juan had become increasingly paranoid lately. He was convinced that someone from COMSOC was trying to sabotage his final project.
+
+You find a ZIP file on Juan's desktop titled private_observations. 
+
+He recorded the habits and characteristics of people he interacted with in the school.
+
+Each of these files contains a series of strange, encoded notes. 
+
+Maybe each pair corresponds to something?
+
+If you can find the student who scared him the most, you’ll find the person Juan was suspicious of.
