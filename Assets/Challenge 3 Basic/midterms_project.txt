@@ -1,0 +1,43 @@
+/**********************************************************
+ * PROJECT ALPHA: Automated Grades Calculator (V3.0)
+ * Author: Juan Dela Cruz (BSIT 2-1)
+ * Date: April 29, 2026
+ * Status: CRASHING ON LINE 42 - HELP ME
+ **********************************************************/
+
+// TO DO: 
+// 1. Fix the infinite loop in the login function.
+// 2. Sleep. Please. Just 2 hours of sleep.
+
+#include <stdio.h>
+
+int main() {
+    printf("Initializing PUP-STC Lab 2 Systems...\n");
+    printf("Access Granted.\n");
+    
+    /* LOG ENTRY - 02:14 AM:
+    I think someone is watching me from the hallway. 
+    Every time I look up, the shadow moves. 
+    If I don't make it to the 7:00 AM class, tell the 
+    investigators to look at the very bottom of this file.
+    */
+
+    char *suspects[] = {"BSIT", "The Registrar"};
+    int stress_level = 9999;
+
+    if (stress_level > 9000) {
+        printf("im cooked");
+    }
+
+    return 0;
+}
+
+// ==========================================================
+// SYSTEM RECOVERY DATA (Do Not Edit)
+// ==========================================================
+// Checksum: 0x554e5a4950
+// Metadata: Evidence_Recovered_By_Investigative_Team
+// 
+// THE KEY TO THE CASE IS HERE:
+// eduCTF{k33p_1t_g0ing_k4rl_9948}
+// ==========================================================
