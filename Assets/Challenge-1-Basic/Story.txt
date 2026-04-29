@@ -1,0 +1,9 @@
+You and your team are a specialized group of investigators. You’ve just received an urgent dispatch from the local precinct: a body has been discovered at PUP-Santo Tomas Campus.
+
+You rush to the scene and arrive at Computer Lab 2. The familiar, heavy scent of cold air conditioning and humming CPUs hangs in the air. On the floor lies Juan Dela Cruz, slumped over a shattered keyboard. A flickering monitor casts a grim light over the scene, illuminating a pool of dark red blood dripping from the table.
+
+Renly Cruzado and Eula Malijan are the ones who discovered the scene; one of them is currently hyperventilating by the door, visibly shaken.
+
+As the lead investigators, your mission is clear: find the killer and bring justice to Juan. Your first lead is on the PC Juan was using—a mysterious file with no extension.
+
+What secrets is it hiding?
