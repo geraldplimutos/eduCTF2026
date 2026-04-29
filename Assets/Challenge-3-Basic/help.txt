@@ -1,0 +1,9 @@
+Following the lead from the memory card, the team shifts focus to the terminal Juan was using. 
+
+Juan was working to finish a major programming assignment.
+
+Renly mentions that Juan always kept a compressed backup of his work on the local drive in case the power flickered. You find a file named help.zip on the desktop.
+
+The investigation requires you to look through his source code. 
+
+Juan was known for leaving detailed notes in his comments—perhaps he noted down something unusual he saw while he was coding in the middle of the night.
