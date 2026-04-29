@@ -36,7 +36,8 @@ Keep in mind, almost every player is a complete beginner. This should suit them 
     └─$ cat file         
     I'M SO EXHAUSTED PLEASE HELP M-
 
-eduCTF{f1nd_m3_j0sh}
+    eduCTF{f1nd_m3_j0sh}
+
 
 Flag:
 
