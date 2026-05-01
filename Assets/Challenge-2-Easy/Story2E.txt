@@ -1,0 +1,7 @@
+After running Juan's recovery script, the lab's backup server spit out a file called memory_leak.bin.
+
+"It’s corrupted," Scharizze says, squinting at the screen. 
+
+"If you try to open it normally, it just looks like weird squares and random symbols. It’s unreadable."
+
+But you remember a trick from your Intro to Computing class: even in a corrupted binary file, "strings" of human-readable text can sometimes survive. If Juan was typing his notes when the "shadow" approached him, those words might still be sitting in this file, waiting to be pulled out of the noise.
