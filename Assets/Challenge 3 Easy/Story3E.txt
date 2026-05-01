@@ -1,0 +1,11 @@
+As you continue to browse through Juan’s "Sent" folder in his mail client, you stumble upon a single attachment sent to himself just hours before the incident. 
+
+The file is named clue.mp3.
+
+Kissy grabs a pair of headphones, expecting to hear a voice recording or perhaps a background noise from the lab. 
+
+But when they try to play it, the media player hangs for a second before throwing a "Codec Error: Unsupported File Format" message.
+
+"That’s weird," Jomari remarks while leaning over your shoulder. "Juan was a total tech geek. He wouldn't send himself a broken audio file. Maybe the file isn't 'broken'—maybe it's just lying about what it is."
+
+In the world of digital forensics, hackers and whistleblowers often rename sensitive files with "boring" extensions like .mp3 or .txt to avoid detection by automated scanners. To find the truth, you’ll need to look past the name and ask the system what the file is actually made of.
