@@ -1,8 +1,0 @@
-Among the files in the help.zip, you find a Python script named recovery_tool.py. 
-
-Juan left a note saying, "If the system locks me out, this script is the only way to bypass the Lab 2 admin gate."
-
-The code looks unfinished, but it might still hold the credentials you need. 
-
-
-You can either be a "coder" and run the script to see the output, or be a "forensic analyst" and hunt through the lines of code to find the flag hidden within.
